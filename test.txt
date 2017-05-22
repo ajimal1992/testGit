@@ -1,1 +1,2 @@
-This is a test file in the branch folder
+This is a test file in the branch folder.
+Another test line.
